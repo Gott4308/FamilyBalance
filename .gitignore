@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.next-family/
+out/
+release/
+build/*
+!build/family.ico
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+supabase/.temp/
+backup*.sql
+.launcher*.log
